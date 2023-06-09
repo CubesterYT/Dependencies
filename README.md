@@ -1,2 +1,2 @@
 <p align="center">
-  <b><h2>Dependencies for my Projects<b><h4>
+  <b><h2>Dependencies for my Projects<b>
