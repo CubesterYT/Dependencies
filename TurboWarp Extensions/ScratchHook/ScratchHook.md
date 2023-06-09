@@ -10,3 +10,7 @@ ScratchHook has three types of blocks:
     - ## **NOTE: "name" AND "icon" ARE NOT NECESSARY TO BE SENT, YOU NEED TO AT LEAST HAVE "content" AS A DATA SET!**
  - **[Connector | Reporter Block]** (NULLED STRING1) , (NULLED STRING2)
     - This Boolean connects two *different* Data Reporters together or another Connector Reporter so you can send multiple pieces of data to the webhook. **Note: You can only have one of each option from the menu, such as: | content, name, icon | in any variation but not: | content, icon, name, name, content | as there can be one of each option.**
+
+
+# ScratchHook future Additions
+ScratchHook currently supports normal webhook messages, but will soon support fully modular embeds as well.
