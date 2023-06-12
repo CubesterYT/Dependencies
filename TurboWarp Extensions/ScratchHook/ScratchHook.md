@@ -1,4 +1,7 @@
 # ScratchHook Documentation
+
+ScratchHook is a fully Modular Webhook extension that you can be easily implemented into your projects. ScratchHook is able to contact the Webhook of any site that supports basic Webhook Syntax. As of right now, the current KNOWN sites that can properly use ScratchHook are Discord and Guilded. If there are more, join the TurboWarp discord server and DM me from there.
+
 ScratchHook has three types of blocks:
  - **[Webhook | Command Block]** webhook data: (NULLED STRING) webhook url: (STRING)
     - The Nulled String area is where you insert the data reporter and/or connector reporter.
