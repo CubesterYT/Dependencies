@@ -16,4 +16,5 @@ ScratchHook has three types of blocks:
 
 
 # ScratchHook future Additions
-ScratchHook currently supports normal webhook messages, but will soon support fully modular embeds as well.
+ - ScratchHook currently supports normal webhook messages, but will soon support fully modular embeds as well.
+ - ScratchHook might soon add a rate limited proxy link to parse the specified Webhook URL as there is a big possibility of this Extension being abused and used to potentially, either intentionally or unintentionally, DDOS the servers of the Webhook provider, causing problems and ip blocking. So ScratchHook may soon have a Webhook Proxy to rate limit requests for security.
